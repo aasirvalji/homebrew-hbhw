@@ -1,8 +1,8 @@
 class Hbhw < Formula
-  desc "Prints hello world"
+  desc "Prints hello world and new version"
   homepage "https://github.com/aasirvalji/hbhw"
-  url "https://github.com/aasirvalji/hbhw/archive/refs/tags/v0.0.2.tar.gz"
-  sha256 "bd770078f0af5d6445b14a9529f2c235c6ee9e1c2412a56b873a5fda89b0a1e0"
+  url "https://github.com/aasirvalji/hbhw/archive/refs/tags/v0.0.3.tar.gz"
+  sha256 "c9a683fdfdb54bdfbaa5a8242d7c3687a08839d4485050e596fcf1740bab1f76"
   license "MIT"
 
   def install
